@@ -1,2 +1,5 @@
 # hello-world
-python project
+ 
+Hi there
+
+Iyline here,new in coding and i'm really enjoying it!
